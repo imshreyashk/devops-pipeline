@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "run": "index.py",
-    "test": "test.py"
+    "test": "python3 test.py"
   },
   "repository": {
     "type": "git",
