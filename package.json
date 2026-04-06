@@ -1,0 +1,22 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "index.py",
+    "test": "test.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imshreyashk/devops-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/imshreyashk/devops-pipeline/issues"
+  },
+  "homepage": "https://github.com/imshreyashk/devops-pipeline#readme"
+}
