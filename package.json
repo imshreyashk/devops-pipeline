@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "index.py",
-    "test": "python3 test.py"
+    "run": "node index.js",
+    "test": "test.js"
   },
   "repository": {
     "type": "git",
